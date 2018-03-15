@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+    margin: 0;
+
+    background-image: url("images/background.jpg");    
+    background-position-y: 42%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-style: thin;
+    font-size: 40px;
+    padding:12px;
+}
